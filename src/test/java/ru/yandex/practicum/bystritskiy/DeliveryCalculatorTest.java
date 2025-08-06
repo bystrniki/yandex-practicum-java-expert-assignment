@@ -276,7 +276,6 @@ class DeliveryCalculatorTest {
                     false,
                     DeliveryWorkload.VERY_HIGH
             );
-            // (300 + 200) * 1.6 = 800
             assertEquals(new BigDecimal("800.00"), cost);
         }
 

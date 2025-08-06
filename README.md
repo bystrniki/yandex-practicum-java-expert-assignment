@@ -1,5 +1,4 @@
 # yandex-practicum-java-expert-assignment
-
 <img src="https://avatars.mds.yandex.net/get-lpc/1635340/2cee3d80-23c3-4136-b8fa-001f9cae9edd/orig" alt="Alt Text" />
 
 Тестовое задание для [вакансии](https://practicum.yandex.ru/job/vacancy-307/) на роль эксперта на курс «Автоматизатор тестирования на Java»
