@@ -1,0 +1,1 @@
+rootProject.name = "yandex-practicum-java-expert-assignment"
